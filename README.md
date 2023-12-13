@@ -72,8 +72,13 @@ Create a file with the name of ‘**webapp.js**’ and run a ‘**node.js**’ s
 2. Update your main page to include links to the /**contact** and /**bio** pages.
 3. Take screenshots of the following:
     1. [http://localhost:8002](http://localhost:8002/)
+    ![Alt text](image.png)
     2. [http://localhost:8002/contact](http://localhost:8002/contact)
+    ![Alt text](image-1.png)
+    ![Alt text](image-2.png)
     3. [http://localhost:8002/bio](http://localhost:8002/bio)
+    ![Alt text](image-3.png)
+    ![Alt text](image-4.png)
 4. Add those screenshots to your assignment folder and make sure they are submitted with your submission.
 
 Note: If there are any unexpected problems running the **webapp.js**, you can try clearing out the browser cache.
